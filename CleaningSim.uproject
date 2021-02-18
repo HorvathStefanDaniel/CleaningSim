@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemOculus",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusOpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"PS4",
+		"WindowsNoEditor",
+		"Android"
+	]
+}
