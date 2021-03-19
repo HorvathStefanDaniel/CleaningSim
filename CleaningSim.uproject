@@ -15,10 +15,6 @@
 		{
 			"Name": "OnlineSubsystemOculus",
 			"Enabled": true
-		},
-		{
-			"Name": "GPULightmass",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
